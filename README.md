@@ -15,11 +15,13 @@ http://www.humblesoftware.com/flotr2
 
 http://d3js.org/
 
-https://github.com/mbostock/d3/wiki/Gallery
-
 https://github.com/mbostock/d3/wiki/API-Reference
 
 https://github.com/mbostock/d3/wiki/Layouts
+
+http://mbostock.github.com/d3/tutorial/bar-1.html
+
+https://github.com/mbostock/d3/wiki/Gallery
 
 http://www.jasondavies.com/parallel-sets/
 
