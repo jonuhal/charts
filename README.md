@@ -19,3 +19,5 @@ http://www.jasondavies.com/parallel-sets/
 http://square.github.com/crossfilter/
 
 http://visual.ly/
+
+http://visual.ly/syria-conflict-year-deaths-mapped?view=true
