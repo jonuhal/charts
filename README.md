@@ -1,10 +1,11 @@
 charts
 ======
+
+http://xkcd.com/688/
+
 https://developers.google.com/chart/
 
 CSS3, HTML5, SVG
-
-http://xkcd.com/688/
 
 http://my.opera.com/tagawa/blog/list-of-javascript-charting-libraries
 
