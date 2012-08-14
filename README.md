@@ -17,6 +17,10 @@ http://d3js.org/
 
 https://github.com/mbostock/d3/wiki/Gallery
 
+https://github.com/mbostock/d3/wiki/API-Reference
+
+https://github.com/mbostock/d3/wiki/Layouts
+
 http://www.jasondavies.com/parallel-sets/
 
 http://square.github.com/crossfilter/
